@@ -67,7 +67,7 @@
 ### Entre em contato
 
 <p align="left">
-    <a href="https:www.linkedin.com/in/lucca-ishikawa-ribeiro">
+    <a href="https://www.linkedin.com/in/lucca-ishikawa-ribeiro" target="_blank">
         <img 
             alt="Perfil LinkedIn" 
             title="Perfil LinkedIn" 
